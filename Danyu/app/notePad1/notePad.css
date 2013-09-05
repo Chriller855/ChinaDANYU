@@ -1,0 +1,10 @@
+td {font-Size:12px; line-height:14px}
+.large {font-Size:12px; line-height:15px}
+.middle {
+	font-Size:11px;
+	font-family: "Geneva", "Arial", "Helvetica", "sans-serif";
+}
+.small {
+	font-Size:9px;
+	font-family: "Geneva", "Arial", "Helvetica", "sans-serif";
+}

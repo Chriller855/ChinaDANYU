@@ -1,0 +1,15 @@
+.dec{
+	width:456px;
+	height:123px;
+	background:url(../images/brand/atsunan_dec.gif);
+	margin-bottom:20px;
+	margin-top:20px;}
+.css2{
+    font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.content{
+	line-height:22px;
+	background:url(../images/brand/line.gif) repeat-x left top;
+	padding-top:20px}
+.content .blod{
+	font-weight:bold;}

@@ -1,0 +1,31 @@
+BODY
+{
+	FONT-SIZE: 9pt;
+	line-height: 170%;
+}
+TABLE
+{
+    FONT-SIZE: 9pt
+}
+INPUT
+{
+    FONT-SIZE: 9pt
+}
+TD
+{
+	FONT-SIZE: 9pt;
+	line-height: 170%;
+}
+.input
+{
+	scrollbar-face-color:#5EC707;
+	scrollbar-shadow-color:#eefee0;
+	scrollbar-highlight-color:#eefee0;
+	scrollbar-3dlight-color:#eefee0;
+	scrollbar-darkshadow-color:#eefee0;
+	scrollbar-track-color:#eefee0;
+	scrollbar-arrow-color:#eefee0;
+	BORDER: #111111 1px solid;
+    FONT-SIZE: 9pt;
+    BACKGROUND-color: #ffffff
+}
